@@ -104,5 +104,10 @@ brokers = [
     'broker_id': 284,
     'name': 'Veta Capital S.A.',
     'page': 'http://cuentas.vetacapital.com.ar'
+    },
+    {
+    'broker_id': 200,
+    'name': 'Bull Market Broker S.A.',
+    'page': 'https://www.bullmarketbrokers.com'
     }
 ]
